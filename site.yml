@@ -1,0 +1,5 @@
+---
+ - hosts: servera.lab.example.com
+   roles:
+     - rhel.user.mymotd
+      
